@@ -1,3 +1,5 @@
+- Validate struct with custom new(params) and validation
+- Read PDF
 - Parse work experience
 - Parse education
 - Parse location
