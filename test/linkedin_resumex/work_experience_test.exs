@@ -4,7 +4,15 @@ defmodule LinkedinResumex.WorkExperienceTest do
   alias LinkedinResumex.Support.Factory
   alias LinkedinResumex.WorkExperience
 
-  describe "struct" do
+  describe "new/1" do
+    test "should fail if missing any required fields" do
+    end
+
+    test "should fail if dates are not in the right format" do
+    end
+
+    test "should successfully build a new WorkExperience" do
+    end
   end
 
   describe "is_ongoing?/1" do
